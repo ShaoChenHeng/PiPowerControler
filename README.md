@@ -21,7 +21,7 @@ wiringPi
 gcc  
 
 ## 说明
-可根据乐谱和十二平均律自行设计“.c”文件的乐谱。  
+可根据乐谱和[十二平均律](https://baike.baidu.com/item/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B/592297?fr=aladdin)自行设计“.c”文件的乐谱。  
 电路连接  
  ![image](https://github.com/ShaoChenHeng/PiPowerControler/blob/master/circuit.png)  
 
