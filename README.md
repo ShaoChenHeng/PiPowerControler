@@ -3,7 +3,8 @@
 当然也可以自定义提示音文件。
 
 ## Build
-linux  
+linux
+
     $git clone https://github.com/ShaoChenHeng/PiPowerControler  
     $cd PiPowerControl  
     $gcc -o poweron poweron.c -lwiringPi  
