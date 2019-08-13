@@ -22,7 +22,8 @@ gcc
 
 ## 说明
 可根据乐谱和十二平均律自行设计“.c”文件的乐谱。  
-电路连接：![image](https://bbs.pediy.com/thread-212916.htm)  
+电路连接  
+ ![image](https://github.com/ShaoChenHeng/PiPowerControler/blob/master/circuit.png)  
 
 ## 参考博客
 https://blog.csdn.net/xukai871105/article/details/17737005  
