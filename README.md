@@ -9,8 +9,10 @@ linux
     $cd PiPowerControl  
     $gcc -o poweron poweron.c -lwiringPi  
     $gcc -o poweroff poweroff.c -lwiringPi  
-    $sudo vim /etc/rc.local  
+
 设置开机启动  
+
+     $sudo vim /etc/rc.local  
 在 exit 0前一行添加 pyhton3 /home/pi/PiPowerControl/code.py &  
 
 ## 环境需求
